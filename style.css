@@ -1,0 +1,19 @@
+body{
+  background-color: #1A1A1A;
+}
+
+#logo {
+  width: 40vw;
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#gallery a {
+  display: block;
+}
+
+#gallery img{
+  width: 100%;
+}
